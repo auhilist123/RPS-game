@@ -1,0 +1,28 @@
+body {
+    margin:0;
+    background-color:#121826;
+    color:#fff;
+    font-family:Arial, sans-serif;
+    min-height:100vh;
+}
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #1E293B;
+    border-radius: 15px;
+    text-align: center;
+    width: 90%;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: #F8FAFC;
+}
+.subtitle {
+    font-size: 16px;
+    margin-bottom: 30px;
+    color: #94A3B8;
+}
+    
